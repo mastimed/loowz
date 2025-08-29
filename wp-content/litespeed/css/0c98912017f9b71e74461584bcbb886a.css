@@ -1,0 +1,70 @@
+.elementor-30 .elementor-element.elementor-element-af3c653 {
+    border-style: none;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s
+}
+
+.elementor-30 .elementor-element.elementor-element-af3c653>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s
+}
+
+.elementor-30 .elementor-element.elementor-element-af3c653>.elementor-shape-top .elementor-shape-fill {
+    fill: #4D1C91
+}
+
+.elementor-30 .elementor-element.elementor-element-af3c653>.elementor-shape-top svg {
+    width: calc(100% + 1.3px);
+    height: 175px;
+    transform: translateX(-50%) rotateY(180deg)
+}
+
+.elementor-30 .elementor-element.elementor-element-eb7dc61.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0
+}
+
+.elementor-30 .elementor-element.elementor-element-46235c3 {
+    --display: flex
+}
+
+.elementor-30 .elementor-element.elementor-element-46235c3:not(.elementor-motion-effects-element-type-background),
+.elementor-30 .elementor-element.elementor-element-46235c3>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #fff0;
+    background-image: linear-gradient(180deg, #140725 0%, #140D0F3D 100%)
+}
+
+.elementor-30 .elementor-element.elementor-element-fe39b6c>.elementor-widget-container {
+    padding: 22px 0 22px 0
+}
+
+.elementor-30 .elementor-element.elementor-element-fe39b6c .title {
+    text-transform: uppercase
+}
+
+.elementor-30 .elementor-element.elementor-element-21cf104>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: flex-start;
+    align-items: flex-start
+}
+
+.elementor-30 .elementor-element.elementor-element-21cf104 {
+    padding: 120px 0 130px 0
+}
+
+.elementor-30 .elementor-element.elementor-element-eaff477 {
+    padding: 120px 0 60px 0
+}
+
+.elementor-30 .elementor-element.elementor-element-d1325d8 {
+    padding: 110px 0 80px 0
+}
+
+@media(max-width:767px) {
+    .elementor-30 .elementor-element.elementor-element-eb7dc61 .tg-content p {
+        margin-bottom: 0
+    }
+}
+
+@media(min-width:768px) {
+    .elementor-30 .elementor-element.elementor-element-f3681a3 {
+        width: 100%
+    }
+}
