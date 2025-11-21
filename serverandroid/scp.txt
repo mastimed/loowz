@@ -1,0 +1,31 @@
+
+	{
+"version": "Love DIANA",
+	"iron": "badal li ltaht ila bghiti iron",
+	
+	"ironId": "e1d8ff01",
+	"ironBanner": "DefaultBanner",
+	"ironInter": "DefaultInterstitial",
+	"ironReward": "DefaultRewardedVideo",
+
+
+	"admob": "hado dyal admob li taht",
+
+	"AdmobAppId": "ca-app-pub-8530893402309745~6036901830",
+	"interId": "ca-app-pub-3940256099942544/1033173712+1",
+	"bannerId": "",
+	"rewardadmob": "ca-app-pub-8530893402309745/8447442758+1",
+
+	"facebook": "badal li ltaht ila bghiti facebook",
+	
+	"FanInter": "1050820212051817_1050823905384781",
+	"FanBanner": "1050820212051817_1050824188718086",
+	"FanReward": "1050820212051817_1061533637647141",
+
+	"unity": "badal li ltaht ila bghiti unity",
+	
+	"UnityAppId": "5461166",
+	"UnityInter": "Interstitial_Android",
+	"Unitybanner": "Banner_Android",
+	"unityreward": "Rewarded_Android"
+}
