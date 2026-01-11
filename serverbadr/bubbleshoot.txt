@@ -1,12 +1,12 @@
 
 # Used by the Editor sync (build-time)
 admob_app_id_android=ca-app-pub-6944508578385010~2676639699
-admob_app_id_ios=ca-app-pub-6944508578385010~7513183342
+admob_app_id_ios=ca-app-pub-6944508578385010~8091538507
 
 # Used by your AdsManager at runtime
-admob_banner_id=
-admob_interstitial_id=ca-app-pub-6944508578385010/7382171460
-admob_rewarded_id=ca-app-pub-6944508578385010/7818327026
+admob_banner_id=ca-app-pub-6944508578385010/9192689578
+admob_interstitial_id=ca-app-pub-6944508578385010/1061233901
+admob_rewarded_id=ca-app-pub-6944508578385010/1404014686
 
 unity_game_id_android=5271294
 unity_game_id_ios= 5261289
@@ -17,3 +17,4 @@ unity_rewarded_id=Rewarded_iOS
 weight_unity=40
 weight_admob=60
 test_mode=0
+
