@@ -14,7 +14,7 @@
 	"AdmobAppId": "ca-app-pub-8530893402309745~1528139241",
 	"interId": "ca-app-pub-3940256099942544/4411468910+",
 	"bannerId": "ca-app-pub-3940256099942544/1712485313+",
-	"rewardadmob": "ca-app-pub-3940256099942544/2435281174",
+	"rewardadmob": "ca-app-pub-3940256099942544/2435281174+",
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
@@ -27,5 +27,6 @@
 	"UnityAppId": "5904579",
 	"UnityInter": "Interstitial_iOS+",
 	"Unitybanner": "Banner_iOS+",
-	"unityreward": "Rewarded_iOS"
+	"unityreward": "Rewarded_iOS+"
 }
+
