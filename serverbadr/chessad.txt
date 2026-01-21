@@ -14,7 +14,8 @@ unity_banner_id=Banner_iOS
 unity_interstitial_id=Interstitial_iOS
 unity_rewarded_id=Rewarded_iOS
 
-weight_unity=40
-weight_admob=60
+weight_unity=80
+weight_admob=20
 test_mode=0
+
 
