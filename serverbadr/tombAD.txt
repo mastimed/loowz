@@ -4,16 +4,17 @@ admob_app_id_android=ca-app-pub-6944508578385010~2676639699
 admob_app_id_ios=ca-app-pub-6388516721464244~8382809674
 
 # Used by your AdsManager at runtime
-admob_banner_id=ca-app-pub-3940256099942544/6300978111
+admob_banner_id=
 admob_interstitial_id=ca-app-pub-6388516721464244/4851044180
 admob_rewarded_id=ca-app-pub-6388516721464244/3482122195
 
 unity_game_id_android=5271294
 unity_game_id_ios=4082082
-unity_banner_id=Banner_iOS
+unity_banner_id=
 unity_interstitial_id=Interstitial_iOS
 unity_rewarded_id=Rewarded_iOS
 
 weight_unity=40
 weight_admob=60
 test_mode=0
+
