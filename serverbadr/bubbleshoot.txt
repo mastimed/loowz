@@ -8,8 +8,8 @@ admob_banner_id=ca-app-pub-6944508578385010/9192689578
 admob_interstitial_id=ca-app-pub-6944508578385010/1061233901
 admob_rewarded_id=ca-app-pub-6944508578385010/1404014686
 
-unity_game_id_android=5271294
-unity_game_id_ios=5261289
+unity_game_id_android=6035307
+unity_game_id_ios=6035306
 unity_banner_id=Banner_iOS
 unity_interstitial_id=Interstitial_iOS
 unity_rewarded_id=Rewarded_iOS
@@ -17,5 +17,6 @@ unity_rewarded_id=Rewarded_iOS
 weight_unity=40
 weight_admob=60
 test_mode=0
+
 
 
