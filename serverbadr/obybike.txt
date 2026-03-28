@@ -12,7 +12,7 @@
 	"admob": "hado dyal admob li taht",
 
 	"AdmobAppId": "ca-app-pub-6944508578385010~5299993400",
-	"interId": "ca-app-pub-6944508578385010/1106393684",
+	"interId": "ca-app-pub-6944508578385010/1106393684+",
 	"bannerId": "",
 	"rewardadmob": "",
 
@@ -24,7 +24,7 @@
 
 	"unity": "badal li ltaht ila bghiti unity",
 	
-	"UnityAppId": "5439929",
+	"UnityAppId": "5439929+",
 	"UnityInter": "Interstitial_iOS",
 	"Unitybanner": "Banner_iOS",
 	"unityreward": "Rewarded_iOS"
